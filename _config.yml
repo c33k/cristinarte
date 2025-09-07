@@ -6,7 +6,7 @@ description: Site da artista Cristina Laranjeira, onde voce encontrara panos de 
 baseurl: "/cristinarte" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Rafael Toscano
-street_address: 1234 Somewhere Road
+street_address:
 city: Niteroi
 state: RJ
 zip_code: 24130-001

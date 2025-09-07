@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Jogos
 image: assets/images/jogosdemesa/tapetes.jpg
 nav-menu: true
@@ -7,7 +7,7 @@ nav-menu: true
 
 <h2>Jogos</h2>
 <!-- Begin Jogos de Mesa Gallery -->
-<div class="4u$"><span class="image fit"><img src="{% link /assets/images/jogosdemesa/tapetes.jpg %}" alt="jogosdemesa.jpg" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{% link /assets/images/jogosdemesa/tapetes.jpg %}" alt="tapetes.jpg" /></span></div>
 
 <h3>Preços<h3>
 <div class="box">
@@ -15,13 +15,19 @@ nav-menu: true
 	<p>Centro de mesa: R$60,00</p>
 	<p>Tapete duplo: R$80,00</p>
     <p>Jogo de mesa: R$160,00</p>
-</div
+</div>
 
 <h3>Solitario: R$30,00</h3>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link /assets/images/jogosdemesa/solitario1.jpg %}" alt="solitario1.jpg" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link /assets/images/jogosdemesa/solitario2.jpg %}" alt="solitario2.jpg" /></span></div>
+		<div class="4u">
+			<span class="image fit"><img src="{% link /assets/images/jogosdemesa/solitario1.jpg %}" alt="solitario1.jpg" /></span>
+		</div>
+		<div class="4u$">
+			<span class="image fit">
+				<img src="{% link /assets/images/jogosdemesa/solitario2.jpg %}" alt="solitario2.jpg" />
+			</span>
+		</div>
 	</div>
 </div>
 <h3>Centro de mesa: R$60,00</h3>
