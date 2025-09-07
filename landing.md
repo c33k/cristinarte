@@ -1,7 +1,7 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+title: Panos de Prato
+layout: Panos de Prato
+description: 'Diversos panos de pratos bordados a mao.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
